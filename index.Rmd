@@ -28,7 +28,7 @@ class: inverse, center, middle
 ---
 
 # Federal minimum wage in 2023$
-.center[![:scale 80%](real_mw.png)]
+.center[![:scale 70%](update_real_minimum_wage.png)]
 ---
 
 # Current state of minimum wages
